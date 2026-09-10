@@ -1,0 +1,10 @@
+{
+  "description": "Displays static, non-interactive screens for design review or presentation, enabling users to showcase layouts without user input or navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
